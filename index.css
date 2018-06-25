@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+.caption{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:36pt;
+    color:black;
+    font-weight: 600;
+}
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:48pt;
+    color:lightseagreen;
+    font-weight: 800;
+}
+form{
+    border:10px solid black;
+    width:60%;
+    margin:auto;
+}
+input{
+    border: 5px solid black;
+    margin: 5px;
+   
+}
+.field{
+    font-weight:600;
+}
+label{
+    width:100px;
+    display:inline-block;
+}
+tr{
+    border:10px solid black;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:24pt;
+}
+td{
+    border:10px solid black;
+}
+.table-heading{
+    text-align: center;
+    font-size:36pt;
+    color:lightseagreen;
+}
+button{
+    height:35px;
+    background-color: green;
+    color: white;
+}
+table{
+    margin: auto;
+}
